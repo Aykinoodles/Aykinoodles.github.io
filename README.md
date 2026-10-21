@@ -7,13 +7,7 @@
 ## About Me 
 I'm a Game Development student at Howest DAE with a passion for creating games, building systems, and solving technical challenges. I'm currently looking for an internship where I can apply my skills, learn from experienced developers, and contribute to exciting projects.
 
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aykinoodles)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ayko.Acket@gmail.com)
 
-</div>
 
 
 ##  Projects
@@ -141,7 +135,7 @@ Key areas of focus:
 
 ---
 
-## 📫 Contact
+##  Contact
 
 Feel free to reach out to me at [Ayko.Acket@gmail.com](mailto:Ayko.Acket@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ayko-acket-59bbb3272/).
 
