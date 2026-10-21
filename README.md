@@ -119,11 +119,13 @@ Key areas of focus:
 <div align="center">
 
 | **Languages** | **Frameworks & Libraries** | **Tools & Platforms** |
-|---------------|----------------------------|------------------------|
-| C++			| SDL                   | Git & GitHub & Perforce	|
-| C#			| DirectX11             | Unreal & Unity			|
-| Lua			| CMake					| Visual studio  /  Rider	|
-| SQL			| WPF					| HacknPlan					|
+|---|---|---|
+| C++ | SDL2 | Git & GitHub |
+| C# | DirectX 11 | Perforce |
+| Lua | CMake | Unreal Engine |
+| SQL | WPF | Unity |
+| | | Visual Studio & Rider |
+| | | HacknPlan |
 
 
 </div>
