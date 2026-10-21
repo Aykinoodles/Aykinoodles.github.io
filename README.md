@@ -1,6 +1,6 @@
-# Ayko Acket | Game Development 
+<img width="996" height="1185" alt="afbeelding" src="https://github.com/user-attachments/assets/db33b1b8-789c-4b5a-9f58-a9decee0f644" /># Ayko Acket | Game Development 
 
-![Profile Photo](C:\Users\bruno\Desktop\portfolio\img\Me.jpeg)
+![Profile Photo](https://github.com/Aykinoodles/Aykinoodles.github.io/blob/main/img/Me.jpeg)
 
 ## About Me 
 
@@ -20,7 +20,7 @@ Ik ben een game development student aan Howest. Ik ben nu op zoek naar een inter
 ### Pacman in a custom game engine
 *Technologies used: C++, SDL2
 
-![Project Image]()
+![Project Image](https://github.com/Aykinoodles/Aykinoodles.github.io/blob/main/img/MP.png)
 
 This was an exam project for the course progamming 4. In which we had to make a game engine and then make a game in said engine.
 We were given a small frame work that gave us a place to start but were heavily encouraged to change everything in the given framework.
@@ -36,7 +36,7 @@ We were given a small frame work that gave us a place to start but were heavily 
 
 This was an exam project for the course Graphics Programming. In which we had to make an application that could switch between a software based rasterizer and a hardware based rasterizer.
 
-![Project Image]()
+![Project Image](https://github.com/Aykinoodles/Aykinoodles.github.io/blob/main/img/GP1.png)
 
 - Usage of BRDF materials
 - DirectX11 implementation
@@ -52,7 +52,7 @@ This was a group project with a client that wanted us to make a demo. This clien
 Where it was the job of the player to complete mission by fixing certain issues on a vehicle. In this project I worked with people who where not in my department.
 
 
-![Project Image]()
+![Project Image](https://github.com/Aykinoodles/Aykinoodles.github.io/blob/main/img/ClientProjects.png)
 
 My additions to the project:
 - Powerwashing
@@ -70,7 +70,7 @@ We were following three production phases: prototype, production and polish.
 We had 1 prototype sprint, 2 production sprints and a polish sprint. This was also the first time we had to use perforce as a version control system.
 
 
-![Project Image]()
+![Project Image](https://github.com/Aykinoodles/Aykinoodles.github.io/blob/main/img/PnS.png)
 
 My additions to the project:
 - Player movement / Dash
@@ -86,7 +86,7 @@ My additions to the project:
 This was the exam project for the course Algorithms 2. In this project we had to make an ai that survived as long a it could.
 We had to use serveral steering methods and software patterns like a behavior tree for decision making.
 
-![Project Image]()
+![Project Image](https://github.com/Aykinoodles/Aykinoodles.github.io/blob/main/img/BT.png)
 
 
 
