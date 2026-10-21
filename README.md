@@ -76,7 +76,7 @@ This project gave me experience collaborating across disciplines and developing 
 ### Peckn'Send (Group Project)
 *Technologies used: Unity, Perforce
 
-<img src="https://github.com/Aykinoodles/Aykinoodles.github.io/blob/main/img/PnS.png" alt="Peckn'Send Project" width="800">
+<img src="https://github.com/Aykinoodles/Aykinoodles.github.io/blob/main/img/PnS.jpg" alt="PecknSend Project" width="800">
 
 Peckn'Send was a team-based project in which we worked like a small game studio to develop a local couch co-op game. We followed a structured production workflow consisting of prototyping, production, and polish, working through one prototype sprint, two production sprints, and a final polish sprint.
 
