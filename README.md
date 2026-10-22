@@ -34,7 +34,7 @@ Key contributions:
 ### Dual Rasterizer (software/hardware)
 *Technologies used: DirectX11, CMake, SDL2
 
-<img src="https://github.com/Aykinoodles/Aykinoodles.github.io/blob/main/img/GP1.png"  width="800">
+<img src="https://Aykinoodles.github.io/img/GP1.png"  width="800">
 
 For my Graphics Programming exam, I developed an application that switches between a software-based rasterizer and a hardware-accelerated rasterizer. This project explored different approaches to rendering graphics and implementing rendering techniques.
 
@@ -54,7 +54,7 @@ Key contributions:
 ### Systems Under Persure (Group Project)
 *Technologies used: Unity
 
-<img src="https://github.com/Aykinoodles/Aykinoodles.github.io/blob/main/img/ClientProjects.png"  width="800">
+<img src="https://Aykinoodles.github.io/img/ClientProjects.png"  width="800">
 
 Systems Under Pressure was a collaborative project developed in partnership with the Belgian Navy. Working with a client and students from different disciplines, we created a prototype for a vehicle maintenance simulator in which players complete missions by identifying and fixing mechanical issues.
 
@@ -76,7 +76,7 @@ This project gave me experience collaborating across disciplines and developing 
 ### Peckn'Send (Group Project)
 *Technologies used: Unity, Perforce
 
-<img src="https://github.com/Aykinoodles/Aykinoodles.github.io/blob/main/img/PnS.jpg"  width="800">
+<img src="https://Aykinoodles.github.io/img/PnS.jpg"  width="800">
 
 Peckn'Send was a team-based project in which we worked like a small game studio to develop a local couch co-op game. We followed a structured production workflow consisting of prototyping, production, and polish, working through one prototype sprint, two production sprints, and a final polish sprint.
 
@@ -96,7 +96,7 @@ The project also introduced me to Perforce and collaborative version control wor
 ### Unreal AI
 *Technologies used: Unreal 5.6
 
-<img src="https://github.com/Aykinoodles/Aykinoodles.github.io/blob/main/img/BT.png"  width="800">
+<img src="https://Aykinoodles.github.io/img/BT.png"  width="800">
 
 For my Algorithms 2 exam project, I developed an AI agent in Unreal Engine designed to survive for as long as possible. The project focused on combining steering behaviours and software design patterns to create autonomous decision-making.
 
