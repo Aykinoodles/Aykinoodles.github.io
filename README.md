@@ -118,8 +118,9 @@ Key areas of focus:
 
 <div align="center">
 
-| **Languages** | **Frameworks & Libraries** | **Tools & Platforms** |
-|---|---|---|
+
+| Languages | Frameworks & Libraries | Tools & Platforms |
+|:-------------|:------------------|:------|
 | C++ | SDL2 | Git & GitHub |
 | C# | DirectX 11 | Perforce |
 | Lua | CMake | Unreal Engine |
