@@ -125,7 +125,7 @@ Key areas of focus:
 | Lua | CMake | Unreal Engine |
 | SQL | WPF | Unity |
 | | | Visual Studio & Rider |
-| | | HacknPlan |
+| | | Hackn'Plan |
 
 
 </div>
