@@ -10,7 +10,7 @@ I'm a Game Development student at Howest DAE with a passion for creating games, 
 
 
 
-##  Projects
+##  Projects 
 
 ### Pacman in a custom game engine
 *Technologies used: C++, SDL2
