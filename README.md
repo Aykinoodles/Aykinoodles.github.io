@@ -64,9 +64,9 @@ My contributions:
 
 - Implemented a wire-cutting mechanic.
 
-- Worked on the ladder mechanic.
+- Created on the ladder mechanic.
   
-- And various other various smaller development tasks.
+- Various smaller development tasks.
 
 This project gave me experience collaborating across disciplines and developing gameplay features to meet a real client's requirements.
 
