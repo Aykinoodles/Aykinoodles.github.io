@@ -1,4 +1,4 @@
-# Ayko Acket | Game Development 
+# Ayko Acket | Game Developer 
 
 <div align="left">
   <img src="https://Aykinoodles.github.io/img/Me.jpeg" alt="Profile Photo" width="300">
@@ -12,7 +12,7 @@ I'm a Game Development student at Howest DAE with a passion for creating games, 
 
 ##  Projects 
 
-### Pacman in a custom game engine
+### Pac-Man in a custom game engine
 *Technologies used: C++, SDL2
 
 
@@ -66,7 +66,7 @@ My contributions:
 
 - Worked on the ladder mechanic.
   
-- And various other little things.
+- And various other various smaller development tasks.
 
 This project gave me experience collaborating across disciplines and developing gameplay features to meet a real client's requirements.
 
